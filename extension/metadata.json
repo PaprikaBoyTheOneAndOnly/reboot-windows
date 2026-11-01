@@ -1,0 +1,7 @@
+{
+    "uuid": "reboot-windows@local",
+    "name": "Reboot into Windows",
+    "description": "Adds a Reboot into Windows option to the GNOME power menu.",
+    "version": 1,
+    "shell-version": ["50"]
+}
